@@ -1,4 +1,4 @@
 {
-  "version": "0.02",
-  "link": "https://raw.githubusercontent.com/PaidBtLoader/PaidBtLoader/Second/main/libbgmi.so"
+  "bypassVersion": "2",
+  "link": "https://raw.githubusercontent.com/PaidBtLoader/Second/raw/refs/heads/main/libbgmi.so"
 }
